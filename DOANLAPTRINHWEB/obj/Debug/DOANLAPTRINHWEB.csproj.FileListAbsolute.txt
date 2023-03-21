@@ -1,0 +1,398 @@
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll.config
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.pdb
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe.config
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.rsp
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe.config
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.rsp
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.AppContext.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Console.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Http.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Sockets.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.ValueTuple.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe.config
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.rsp
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\WebGrease.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.pdb
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.AssemblyReference.cache
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CoreCompileInputs.cache
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CopyComplete
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.dll
+D:\DO AN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.pdb
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll.config
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.pdb
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe.config
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Globalization.Calendars.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Http.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Sockets.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\WebGrease.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CopyComplete
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.dll
+\\Mac\Home\Desktop\DOAN\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.pdb
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll.config
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.pdb
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe.config
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.rsp
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe.config
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.rsp
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.AppContext.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Console.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe.config
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.rsp
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\WebGrease.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.pdb
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.AssemblyReference.cache
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CoreCompileInputs.cache
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CopyComplete
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.dll
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.pdb
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll.config
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.pdb
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe.config
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.rsp
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe.config
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.rsp
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.AppContext.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Console.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Http.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Sockets.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.ValueTuple.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe.config
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.rsp
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\WebGrease.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.pdb
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CoreCompileInputs.cache
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CopyComplete
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.pdb
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Data.Linq.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll.config
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\DOANLAPTRINHWEB.pdb
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.exe.config
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Globalization.Calendars.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Http.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Net.Sockets.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Data.Linq.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\WebGrease.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.CopyComplete
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.dll
+\\Mac\Home\Desktop\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.pdb
+C:\Users\daitr\OneDrive\Máy tính\DOANLAPTRINHWEB\DOANLAPTRINHWEB\bin\System.Data.Linq.dll
+D:\DoAnWebASP\DOANLAPTRINHWEB (1)\DOANLAPTRINHWEB\DOANLAPTRINHWEB\obj\Debug\DOANLAPTRINHWEB.csproj.AssemblyReference.cache

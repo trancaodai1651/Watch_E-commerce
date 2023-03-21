@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DOANLAPTRINHWEB.Models.MUCDOCHONGNUOC>
+@{
+    ViewBag.Title = "Danh sách mức độ chống nước";
+    Layout = "~/Views/Shared/_Layout_Admin.cshtml";
+}
+<!-- Content wrapper -->
+<div class="content-wrapper">
+    <!-- Content -->
+
+    <div class="container-xxl flex-grow-1 container-p-y">
+        <!-- Basic Bootstrap Table -->
+        <div class="card">
+            <a type="submit" class="btn btn-primary" href="@Url.Action("Add", "Water")" style="width: 250px; margin: 20px;">Thêm mức độ chống nước</a>
+            <h5 class="card-header">DANH SÁCH MỨC ĐỘ CHỐNG NƯỚC</h5>
+            <div class="table-responsive text-nowrap">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th style="text-align:center"><strong>Tên mức độ chống nước</strong></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tbody class="table-border-bottom-0">
+                            <tr>
+                                <th></th>
+                                <td style="text-align:center"><i class="fab fa-angular fa-lg text-danger"></i> @Html.DisplayFor(model => item.TenMucDoChongNuoc)</td>
+                                <td style="text-align:center">
+                                    <a class="btn btn-info" href="@Url.Action("Update", "Water", new { id = item.MaMucDoChongNuoc })"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                    <a class="btn btn-danger" href="@Url.Action("Delete", "Water", new { id = item.MaMucDoChongNuoc })"><i class="bx bx-trash me-1"></i> Delete</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .table th {
+        font-size: 12px;
+    }
+</style>

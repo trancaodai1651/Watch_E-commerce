@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "216bf701-fedc-4d0d-8cb7-73114c33ed1d": {
+      "ProjectGuid": "216bf701-fedc-4d0d-8cb7-73114c33ed1d",
+      "DisplayName": "DOANLAPTRINHWEB",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
